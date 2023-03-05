@@ -122,6 +122,8 @@ If you want to see my __Visuals and its working in detail__ . So , Kindly  visit
 ![image](Images/Front_end.png)
 
 <br>
+
+
 ### AUTHOR
 <hr>
 <strong>Shehryar Gondal</strong>
